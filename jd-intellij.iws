@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f89f74-b6df-4c19-b6b3-5f068accd30f" name="Default" comment="">
-      <change type="DELETED" beforePath="G:\SrcCtrl\jd-intellij\.hg_archival.txt" afterPath="" />
-      <change type="DELETED" beforePath="G:\SrcCtrl\jd-intellij\.hgignore" afterPath="" />
-      <change type="DELETED" beforePath="G:\SrcCtrl\jd-intellij\.hgtags" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij-win32.properties" afterPath="$PROJECT_DIR$/jd-intellij-win32.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.iml" afterPath="$PROJECT_DIR$/jd-intellij.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.ipr" afterPath="$PROJECT_DIR$/jd-intellij.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.iws" afterPath="$PROJECT_DIR$/jd-intellij.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module_jd-intellij.xml" afterPath="$PROJECT_DIR$/module_jd-intellij.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
     </list>
-    <file path="/Dummy.txt" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361722654282" ignored="false" />
+    <file path="/Dummy.txt" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361722679004" ignored="false" />
     <file path="/jd-intellij.iml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361710545910" ignored="false" />
     <file path="/jd-intellij-win32.properties" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361715736934" ignored="false" />
     <file path="/module_jd-intellij.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361722316454" ignored="false" />
@@ -126,7 +117,7 @@
       <file leaf-file-name="plugin.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="96" selection-start="3346" selection-end="3346" vertical-scroll-proportion="1.3675079">
+            <state line="60" column="96" selection-start="3346" selection-end="3346" vertical-scroll-proportion="1.3718355">
               <folding>
                 <marker date="1361722587351" expanded="true" signature="473:537" placeholder="..." />
                 <marker date="1361722587351" expanded="true" signature="541:724" placeholder="..." />
@@ -516,7 +507,11 @@
       <created>1361712417049</created>
       <updated>1361712417049</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="c">
+      <created>1361722684620</created>
+      <updated>1361722684620</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -527,20 +522,20 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11969532" sideWeight="0.670987" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11969532" sideWeight="0.6703297" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.670987" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.6703297" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -727,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="96" selection-start="3346" selection-end="3346" vertical-scroll-proportion="1.3675079">
+        <state line="60" column="96" selection-start="3346" selection-end="3346" vertical-scroll-proportion="1.3718355">
           <folding>
             <marker date="1361722587351" expanded="true" signature="473:537" placeholder="..." />
             <marker date="1361722587351" expanded="true" signature="541:724" placeholder="..." />
