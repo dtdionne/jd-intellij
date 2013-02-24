@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="jd-intellij" default="make">
+<Project name="jd-intellij" default="make">
 
     <condition property="isWindows">
         <os family="windows" />
@@ -94,6 +94,8 @@
     </patternset>
 
     <!-- JDK definitions -->
+
+
 
     <property name="jdk.bin" value="${jdk.home}/bin"/>
 
@@ -259,12 +261,12 @@
     </path>
 
     <target name="register.custom.compilers">
-        <echo message="${toString:idea.classpath}"/>
-        <taskdef name="javac2"
+        <echo message="${toString:idea.home}"/>
+        <taskdef taskname="javac2"
                  classname="com.intellij.ant.Javac2"
                  classpathref="javac2.classpath"
                 />
-        <taskdef name="instrumentIdeaExtensions"
+        <taskdef taskname="instrumentIdeaExtensions"
                  classname="com.intellij.ant.InstrumentIdeaExtensions"
                  classpathref="javac2.classpath"
                 />
@@ -281,4 +283,4 @@
     <target name="clean" depends="clean.module.jd-intellij" description="cleanup all"/>
 
     <target name="make" depends="init, clean, plugin.build.deploy.jd-intellij" description="build all modules"/>
-</project>
+</Project>
