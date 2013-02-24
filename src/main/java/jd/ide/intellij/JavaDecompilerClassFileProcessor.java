@@ -26,21 +26,21 @@ public class JavaDecompilerClassFileProcessor implements ContentBasedClassFilePr
     }
 
     @Override
-    public boolean isApplicable(Project project, VirtualFile virtualFile) {
+    public boolean isApplicable(Project Project, VirtualFile virtualFile) {
         return virtualFile.getFileType() == StdFileTypes.CLASS;
     }
 
     @NotNull
     @Override
-    public SyntaxHighlighter createHighlighter(Project project, VirtualFile vFile) {
-        return SyntaxHighlighter.PROVIDER.create(StdFileTypes.JAVA, project, vFile);
+    public SyntaxHighlighter createHighlighter(Project Project, VirtualFile vFile) {
+        return SyntaxHighlighter.PROVIDER.create(StdFileTypes.JAVA, Project, vFile);
     }
 
     @NotNull
     @Override
-    public String obtainFileText(Project project, VirtualFile virtualFile) {
+    public String obtainFileText(Project Project, VirtualFile virtualFile) {
         ServiceManager.getService(JavaDecompilerRefreshSupportService.class).markDecompiled(virtualFile);
-        return javaDecompilerService.decompile(project, virtualFile);
+        return javaDecompilerService.decompile(Project, virtualFile);
     }
 
     @Override

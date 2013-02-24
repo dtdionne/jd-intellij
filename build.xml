@@ -241,9 +241,9 @@
         </fileset>
     </path>
 
-    <property name="project.jdk.home" value="${idea.home}"/>
-    <property name="project.jdk.bin" value="${jdk.bin}"/>
-    <property name="project.jdk.classpath" value="idea.classpath"/>
+    <property name="jdk.home" value="${idea.home}"/>
+    <property name="jdk.bin" value="${jdk.bin}"/>
+    <property name="jdk.classpath" value="idea.classpath"/>
 
 
     <!-- Global Libraries -->

@@ -2,9 +2,9 @@
 <Project name="module_jd-intellij" default="compile.module.jd-intellij">
   <dirname property="module.jd-intellij.basedir" file="${ant.file.module_jd-intellij}"/>
   
-  <property name="module.jdk.home.jd-intellij" value="${project.jdk.home}"/>
-  <property name="module.jdk.bin.jd-intellij" value="${project.jdk.bin}"/>
-  <property name="module.jdk.classpath.jd-intellij" value="${project.jdk.classpath}"/>
+  <property name="module.jdk.home.jd-intellij" value="${jdk.home}"/>
+  <property name="module.jdk.bin.jd-intellij" value="${jdk.bin}"/>
+  <property name="module.jdk.classpath.jd-intellij" value="${jdk.classpath}"/>
   
   <property name="compiler.args.jd-intellij" value="${compiler.args}"/>
   

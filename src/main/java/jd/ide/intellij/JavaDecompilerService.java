@@ -21,11 +21,11 @@ public class JavaDecompilerService {
         javaDecompiler = new JavaDecompiler();
     }
 
-    public String decompile(Project project, VirtualFile virtualFile) {
+    public String decompile(Project Project, VirtualFile virtualFile) {
         // for jars only
         String filePath = virtualFile.getPath();
         VirtualFile classRootForFile =
-                ProjectRootManager.getInstance(project).getFileIndex().getClassRootForFile(virtualFile);
+                ProjectRootManager.getInstance(Project).getFileIndex().getClassRootForFile(virtualFile);
 
         if (classRootForFile != null) {
             String basePath = classRootForFile.getPresentableUrl();
@@ -52,7 +52,7 @@ public class JavaDecompilerService {
         }
 
         // fallback
-        return ClsFileImpl.decompile(PsiManager.getInstance(project), virtualFile);
+        return ClsFileImpl.decompile(PsiManager.getInstance(Project), virtualFile);
     }
 
     private boolean validContent(String decompiled) {
