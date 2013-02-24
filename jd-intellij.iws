@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f89f74-b6df-4c19-b6b3-5f068accd30f" name="Default" comment="">
-      <change type="DELETED" beforePath="G:\SrcCtrl\jd-intellij\jd-intellij.iws" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij-win32.properties" afterPath="$PROJECT_DIR$/jd-intellij-win32.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.ipr" afterPath="$PROJECT_DIR$/jd-intellij.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.iws" afterPath="$PROJECT_DIR$/jd-intellij.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
     </list>
-    <file path="/Dummy.txt" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361723296121" ignored="false" />
+    <file path="/Dummy.txt" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361724169365" ignored="false" />
     <file path="/jd-intellij.iml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361710545910" ignored="false" />
     <file path="/jd-intellij-win32.properties" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361715736934" ignored="false" />
-    <file path="/module_jd-intellij.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361722316454" ignored="false" />
+    <file path="/module_jd-intellij.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361724341201" ignored="false" />
     <file path="/build.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361722386001" ignored="false" />
     <file path="/plugin.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361723692530" ignored="false" />
     <file path="/jd-intellij.ipr" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361715604644" ignored="false" />
@@ -95,10 +93,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module_jd-intellij.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module_jd-intellij.xml">
+      <file leaf-file-name="module_jd-intellij.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Intelij/dawidVIFO-jd-intellij-8bd9068119e7/dawidVIFO-jd-intellij-8bd9068119e7/module_jd-intellij.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="14" selection-start="4761" selection-end="4766" vertical-scroll-proportion="1.9505264">
+            <state line="162" column="10" selection-start="6869" selection-end="6869" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jd-intellij.iws" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jd-intellij.iws">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,6 +162,7 @@
         <option value="$PROJECT_DIR$/jd-intellij-win32.properties" />
         <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/jd-intellij.iws" />
+        <option value="$USER_HOME$/Downloads/Intelij/dawidVIFO-jd-intellij-8bd9068119e7/dawidVIFO-jd-intellij-8bd9068119e7/module_jd-intellij.xml" />
       </list>
     </option>
   </component>
@@ -522,7 +530,11 @@
       <created>1361723165893</created>
       <updated>1361723165893</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cd">
+      <created>1361724174483</created>
+      <updated>1361724174483</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -619,26 +631,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jd-intellij-win32.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="2378" selection-end="2378" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1361723822952" expanded="true" signature="473:537" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="541:724" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="749:799" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1333:1435" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1744:2167" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jd-intellij-win32.properties">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="11" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -697,9 +689,23 @@
         <state line="26" column="9" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.45240533" />
       </provider>
     </entry>
+    <entry file="file://Z:/jd-intellij-troubleshooting/jd-intellij/module_jd-intellij.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jd-intellij.ipr">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="17" selection-start="120" selection-end="122" vertical-scroll-proportion="-2.04">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_jd-intellij.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="14" selection-start="4761" selection-end="4766" vertical-scroll-proportion="1.9505264">
           <folding />
         </state>
       </provider>
@@ -731,9 +737,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_jd-intellij.xml">
+    <entry file="file://$USER_HOME$/Downloads/Intelij/dawidVIFO-jd-intellij-8bd9068119e7/dawidVIFO-jd-intellij-8bd9068119e7/module_jd-intellij.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="14" selection-start="4761" selection-end="4766" vertical-scroll-proportion="1.9505264">
+        <state line="162" column="10" selection-start="6869" selection-end="6869" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-intellij.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
