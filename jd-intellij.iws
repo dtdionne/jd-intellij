@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f89f74-b6df-4c19-b6b3-5f068accd30f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.iml" afterPath="$PROJECT_DIR$/jd-intellij.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jd-intellij.iws" afterPath="$PROJECT_DIR$/jd-intellij.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module_jd-intellij.xml" afterPath="$PROJECT_DIR$/module_jd-intellij.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
     </list>
-    <file path="/Dummy.txt" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361724530801" ignored="false" />
+    <file path="/Dummy.txt" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361725823300" ignored="false" />
     <file path="/jd-intellij.iml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361710545910" ignored="false" />
     <file path="/jd-intellij-win32.properties" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361715736934" ignored="false" />
-    <file path="/module_jd-intellij.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361724341201" ignored="false" />
-    <file path="/build.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361725248569" ignored="false" />
-    <file path="/plugin.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361723692530" ignored="false" />
-    <file path="/jd-intellij.ipr" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361715604644" ignored="false" />
+    <file path="/module_jd-intellij.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361725588493" ignored="false" />
+    <file path="/build.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361725617493" ignored="false" />
+    <file path="/plugin.xml" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361725877114" ignored="false" />
+    <file path="/jd-intellij.ipr" changelist="53f89f74-b6df-4c19-b6b3-5f068accd30f" time="1361725757122" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,33 +77,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jd-intellij.ipr" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jd-intellij.ipr">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="120" selection-end="122" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="263" column="48" selection-start="11603" selection-end="11603" vertical-scroll-proportion="0.51279426">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jd-intellij.iws" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jd-intellij.iws">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="64" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="jd-intellij-win32.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jd-intellij-win32.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,17 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugin.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <file leaf-file-name="JDPluginComponent.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jd/ide/intellij/config/JDPluginComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="29" selection-start="415" selection-end="420" vertical-scroll-proportion="-4.08">
-              <folding>
-                <marker date="1361723822952" expanded="true" signature="473:537" placeholder="..." />
-                <marker date="1361723822952" expanded="true" signature="541:724" placeholder="..." />
-                <marker date="1361723822952" expanded="true" signature="749:799" placeholder="..." />
-                <marker date="1361723822952" expanded="true" signature="1333:1435" placeholder="..." />
-                <marker date="1361723822952" expanded="true" signature="1744:2167" placeholder="..." />
-              </folding>
+            <state line="56" column="4" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.3467742">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,13 +116,13 @@
       <list>
         <option value="$PROJECT_DIR$/jd-intellij.iml" />
         <option value="$PROJECT_DIR$/.hgtags" />
-        <option value="$PROJECT_DIR$/jd-intellij.ipr" />
-        <option value="$PROJECT_DIR$/module_jd-intellij.xml" />
         <option value="$PROJECT_DIR$/jd-intellij-win32.properties" />
-        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
         <option value="$USER_HOME$/Downloads/Intelij/dawidVIFO-jd-intellij-8bd9068119e7/dawidVIFO-jd-intellij-8bd9068119e7/module_jd-intellij.xml" />
         <option value="$PROJECT_DIR$/jd-intellij.iws" />
+        <option value="$PROJECT_DIR$/module_jd-intellij.xml" />
         <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/jd-intellij.ipr" />
+        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
       </list>
     </option>
   </component>
@@ -193,6 +160,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,10 +189,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -236,10 +200,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jd-intellij" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -262,10 +222,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jd-intellij" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -301,7 +257,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="All">
           <PATH>
@@ -336,13 +291,13 @@
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="261" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="290" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="284" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="290" />
     <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="284" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/JetBrains/ideaC-12-src" />
@@ -359,13 +314,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
@@ -383,6 +338,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -411,19 +379,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -538,35 +493,39 @@
       <created>1361724471909</created>
       <updated>1361724471909</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="cd">
+      <created>1361725333675</created>
+      <updated>1361725333675</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="10" width="1900" height="1160" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11969532" sideWeight="0.670987" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11969532" sideWeight="0.6703297" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.670987" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.6703297" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -633,15 +592,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module_jd-intellij.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="131" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="11" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1361723822952" expanded="true" signature="473:537" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="541:724" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="749:799" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1333:1435" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1744:2167" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -667,18 +633,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="43" selection-start="564" selection-end="565" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1361723822952" expanded="true" signature="473:537" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="541:724" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="749:799" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1333:1435" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1744:2167" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jd-intellij.iml">
@@ -691,16 +652,50 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jd-intellij.ipr">
+    <entry file="file://$PROJECT_DIR$/jd-intellij.iws">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="120" selection-end="122" vertical-scroll-proportion="0.0">
+        <state line="0" column="64" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module_jd-intellij.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="14" selection-start="4761" selection-end="4766" vertical-scroll-proportion="1.9505264">
+        <state line="9" column="131" selection-start="520" selection-end="520" vertical-scroll-proportion="0.1587137">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="6" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.5238589">
+          <folding>
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1361723822952" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="285" column="9" selection-start="12385" selection-end="12392" vertical-scroll-proportion="0.89559877">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-intellij.ipr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="520" column="85" selection-start="28687" selection-end="28687" vertical-scroll-proportion="-0.0031120332">
           <folding />
         </state>
       </provider>
@@ -712,29 +707,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jd-intellij.iws">
+    <entry file="file://$PROJECT_DIR$/src/main/java/jd/ide/intellij/config/JDPluginComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="64" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="415" selection-end="420" vertical-scroll-proportion="-4.08">
-          <folding>
-            <marker date="1361723822952" expanded="true" signature="473:537" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="541:724" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="749:799" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1333:1435" placeholder="..." />
-            <marker date="1361723822952" expanded="true" signature="1744:2167" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="263" column="48" selection-start="11603" selection-end="11603" vertical-scroll-proportion="0.51279426">
+        <state line="56" column="4" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.3467742">
           <folding />
         </state>
       </provider>

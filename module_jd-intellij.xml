@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="module_jd-intellij" default="compile.module.jd-intellij">
+<Project name="module_jd-intellij" default="compile.module.jd-intellij">
   <dirname property="module.jd-intellij.basedir" file="${ant.file.module_jd-intellij}"/>
   
   <property name="module.jdk.home.jd-intellij" value="${project.jdk.home}"/>
@@ -112,4 +112,4 @@
     </zip>
     <delete dir="${tmp.dir.jd-intellij}"/>
   </target>
-</project>
+</Project>
