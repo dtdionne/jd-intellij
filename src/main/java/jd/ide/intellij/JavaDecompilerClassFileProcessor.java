@@ -9,6 +9,7 @@ import com.intellij.openapi.fileTypes.SyntaxHighlighter;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
 import jd.ide.intellij.config.JDPluginComponent;
+import jd.ide.intellij.config.JDPluginComponentIcon;
 import org.jetbrains.annotations.NotNull;
 
 /**
@@ -17,7 +18,7 @@ import org.jetbrains.annotations.NotNull;
 public class JavaDecompilerClassFileProcessor implements ContentBasedClassFileProcessor {
 
     private JavaDecompilerService javaDecompilerService;
-    private JDPluginComponent jdPluginComponent =
+    private JDPluginComponentIcon jdPluginComponentIcon =
             ApplicationManager.getApplication().getComponent(JDPluginComponent.class);
 
     public JavaDecompilerClassFileProcessor() {

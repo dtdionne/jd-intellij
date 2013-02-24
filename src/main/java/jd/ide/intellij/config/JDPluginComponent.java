@@ -23,7 +23,7 @@ import javax.swing.*;
         name = JDPluginConfigurationPane.COMPONENT_NAME,
         storages = {@Storage(id = "other", file = "$APP_CONFIG$/java.decompiler.xml")}
 )
-public class JDPluginComponent implements ApplicationComponent, Configurable, PersistentStateComponent<Element> {
+public class JDPluginComponent implements ApplicationComponent, PersistentStateComponent<Element>, JDPluginComponentIcon {
 
     public static final String SHOW_METADATA_ATTRIBUTE = "displayMetadata";
     public static final String SHOW_LINE_NUMBERS_ATTRIBUTE = "displayLineNumbers";
