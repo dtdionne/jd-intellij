@@ -261,7 +261,7 @@
     </path>
 
     <target name="register.custom.compilers">
-        <echo message="${toString:idea.home}"/>
+        <echo message="${toString:idea.classpath}"/>
         <taskdef name="javac2"
                  classname="com.intellij.ant.Javac2"
                  classpathref="javac2.classpath"
